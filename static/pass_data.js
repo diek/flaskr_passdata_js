@@ -1,5 +1,3 @@
-// window.onload=init;
-
 function displayData(in_data) {
   var selectWings = document.getElementById('chickenWings')
   var fragment = document.createDocumentFragment()
