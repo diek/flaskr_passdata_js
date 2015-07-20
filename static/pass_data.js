@@ -1,3 +1,5 @@
+// a function to take in the list of data, created in app.py
+// add option items to the dom using the values.
 function displayData(in_data) {
   var selectWings = document.getElementById('chickenWings')
   var fragment = document.createDocumentFragment()
@@ -8,3 +10,5 @@ function displayData(in_data) {
   }
   selectWings.appendChild(fragment);
 }
+
+
