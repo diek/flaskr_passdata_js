@@ -10,7 +10,7 @@ This is very basic example of using Flask with a csv, to display the result of a
 
 ## Installation  
 
-- Use virtualenv + virtualwrapper  to create a virtual environment for your project. If this is unfamiliar I suggest going here. <a href="http://docs.python-guide.org/en/latest/dev/virtualenvs/">Hitchhiker&#39;s Guide to Python: Virtual Environments</a>
+- Use virtualenv + virtualwrapper to create a virtual environment for your Flask project. If this is unfamiliar I suggest going here. <a href="http://docs.python-guide.org/en/latest/dev/virtualenvs/">Hitchhiker&#39;s Guide to Python: Virtual Environments</a>
 - `$:pip install requirements.txt`
 
 ## CSV File
